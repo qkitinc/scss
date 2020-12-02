@@ -1,0 +1,19 @@
+{
+  "name": "scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass":"node-sass --watch src/scss/style.scss src/css/style.css --source-map src/css/style.css.map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkitinc/scss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qkitinc/scss/issues"
+  },
+  "homepage": "https://github.com/qkitinc/scss#readme"
+}
